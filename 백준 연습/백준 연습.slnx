@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="백준 연습/백준 연습.vcxproj" Id="15cd1ae9-663c-4adc-98f4-22d0b364883c" />
+</Solution>
